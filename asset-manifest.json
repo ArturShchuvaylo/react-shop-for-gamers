@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-shop-for-gamers/static/css/main.55c3e22c.css",
+    "main.js": "/react-shop-for-gamers/static/js/main.35c22cc6.js",
+    "index.html": "/react-shop-for-gamers/index.html",
+    "main.55c3e22c.css.map": "/react-shop-for-gamers/static/css/main.55c3e22c.css.map",
+    "main.35c22cc6.js.map": "/react-shop-for-gamers/static/js/main.35c22cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c3e22c.css",
+    "static/js/main.35c22cc6.js"
+  ]
+}
